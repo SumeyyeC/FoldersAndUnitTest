@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7aed4613-ab31-4e76-bc1a-0817388cc744" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583252610293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Json objects stored in folders and unit test done">
+      <created>1583254911475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583254911476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,10 +147,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="517" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1583253294642" />
-    <state x="602" y="2" key="CommitChangelistDialog2" timestamp="1583254882685">
+    <state x="602" y="2" key="CommitChangelistDialog2" timestamp="1583254911034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="602" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583254882685" />
+    <state x="602" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583254911034" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1583252684234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -169,10 +175,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583216373764" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1583254679415">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1583255512292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583254679415" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583255512292" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583252707645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
